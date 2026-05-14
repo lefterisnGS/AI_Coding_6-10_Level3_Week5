@@ -1,0 +1,14 @@
+title: Our AI Team Showcase
+subtitle: A class team project
+hero_message: We worked together to make one team webpage. Each child adds a few favorite things, and the page updates for the whole class.
+mascot_name: Grandy
+mascot_message: I am proud of this team. They used creativity, teamwork, and brave thinking.
+closing_message: Thank you for visiting our class showcase.
+highlight_1: We learned to ask AI clear questions.
+highlight_2: We made creative ideas together.
+highlight_3: We tried coding and simple web apps.
+highlight_4: We learned how GitHub can save our changes.
+highlight_5: We learned how Streamlit can show an app online.
+highlight_6: We practiced speaking about our project.
+highlight_7: We learned to be safe and kind online.
+highlight_8: We worked as one team.
