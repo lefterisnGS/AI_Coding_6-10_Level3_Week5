@@ -3,11 +3,11 @@
 # Change only the words after the colon.
 
 order: 1
-name: Friend
-emoji: 🌟
-favorite_color: Blue
-favorite_1: robots
-favorite_2: drawing
+name: bob
+emoji: 👏🏾
+favorite_color: red
+favorite_1: durian man
+favorite_2: saying 67
 favorite_3: games
 favorite_course_part: making fun projects
 i_learned: I learned that good questions help AI.
